@@ -1,0 +1,49 @@
+---
+title: "About"
+about:
+  template: trestles
+---
+
+**How to ask questions about the projects?**
+
+-   Each project page features introductory details, and questions can be directly posed to the provided emails on that page.
+
+# All Topics and Groups
+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+
+| Topics                                                                                                                                                    | Group Members                                      |
++===========================================================================================================================================================+====================================================+
+| **An Archery Game Analysis**                                                                                                                              | AltanŞener - altansener98\@gmail.com               |
+|                                                                                                                                                           |                                                    |
+|                                                                                                                                                           | Abdullah Mert Çelikkol - mertcelikkol10\@gmail.com |
+|                                                                                                                                                           |                                                    |
+|                                                                                                                                                           | Alican Aktağ - alcnaktag\@gmail.com                |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+
+| **Trend Analysis of Road Traffic Accidents of Turkey**                                                                                                    | Levent Sari - levent.sari\@metu.edu.tr             |
+|                                                                                                                                                           |                                                    |
+|                                                                                                                                                           | Huseyin Tan - huseyin.tan\@metu.edu.tr             |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+
+| **Police Department Stop Data**                                                                                                                           | Buse Bakış - buse.bakis\@metu.edu.tr               |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+
+| **Women’s Leadership and Carbon Disclosure by The Global Energy Companies**                                                                               | Ekinsu Çiçek - ekinsu.cicek\@metu.edu.tr           |
+|                                                                                                                                                           |                                                    |
+|                                                                                                                                                           | Kübra Nur Akdemir - kubra.akdemir\@metu.edu.tr     |
+|                                                                                                                                                           |                                                    |
+|                                                                                                                                                           | Mehmet Ali Erkan - erkan.ali\@metu.edu.tr          |
+|                                                                                                                                                           |                                                    |
+|                                                                                                                                                           | Oğuzhan Aydın - aydin.oguzhan_01\@metu.edu.tr      |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+
+| **Data Scientist Job Posting Data Analysis**                                                                                                              | Miray Çınar - miray.cinar\@metu.edu.tr             |
+|                                                                                                                                                           |                                                    |
+|                                                                                                                                                           | Ecenaz Tunç - ecenaz.tunc\@metu.edu.tr             |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+
+| **Investigation of Terrestrial Water Storage and Precipitation Observations**                                                                             | Çağatay Çakan - cakan.cagatay\@metu.edu.tr         |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+
+| **Evaluation of 3D-var Data Assimilation of WRF Temperature Prediction Over Northwestern Türkiye: A Case Study for the Period of 11 and 16 August, 2004** | Mehmet AKSOY - *aksoy.mehmet\@metu.edu.tr*         |
+|                                                                                                                                                           |                                                    |
+|                                                                                                                                                           | Sercan AKIL - *sercan.akil\@metu.edu.tr*           |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+
+
+: Topics and Groups
+
+Also visit the [DSLAB](https://dslab-stat.metu.edu.tr) for different projects.

@@ -1,0 +1,17 @@
+---
+title: "Final Projects"
+format: html
+editor: visual
+execute: 
+  cache: true
+---
+
+This website showcases the Final Projects from the Data Handling and Visualization Lecture (STAT570) during the Fall Semester (2023-2024) in the [Statistics Department](https://stat.metu.edu.tr/en) of METU offered by [Fulya Gökalp Yavuz](https://stat.metu.edu.tr/en/fulya-gokalp-yavuz). All projects featured here have been created by the students of the lecture and edited by the lecturer.
+
+::: callout-note
+It is essential to acknowledge that minor errors may be present, and the methods employed may not necessarily reflect the optimal approach related to the data sets.
+:::
+
+All groups aimed to construct a narrative around a data set with relevance to environmental impact, human well-being, and other related issues.
+
+Prior to these projects, our primary focus centered on [*R4DS(2e)*](https://r4ds.hadley.nz) and [*Building reproducible analytical pipelines with R*](https://raps-with-r.dev) books for practical exercises and hands-on projects. Each group established GitHub accounts and collaborated on shared projects by forking each other's repositories. This approach was designed to provide practical experience in reproducible and open-source research, incorporating version control practices.
