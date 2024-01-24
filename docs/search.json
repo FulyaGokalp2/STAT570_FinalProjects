@@ -245,8 +245,8 @@
     "text": "References\nAbout us | glassdoor. (n.d.). https://www.glassdoor.com/about/\nBarr, D., & DeBruine, L. (n.d.). Data Cleaning. https://rgup.gitlab.io/research_cycle/03_tidyr.html\nCotton, R. (2023, February 16). Quarto cheat sheet (previously known as RMarkdown). DataCamp. https://www.datacamp.com/cheat-sheet/quarto-cheat-sheet-previously-known-as-r-markdown\nGREP: Pattern matching and replacement. RDocumentation. (n.d.). https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/grep\nRahman, R. (n.d.). [Dataset] Data Science Job Posting on Glassdoor. Retrieved December 20, 2023,. https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor/data\nWickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for Data Science: Import, Tidy, transform, visualize, and model data. O’Reilly Media, Inc."
   },
   {
-    "objectID": "Index.html",
-    "href": "Index.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Final Projects",
     "section": "",
     "text": "This website showcases the Final Projects from the Data Handling and Visualization Lecture (STAT570) during the Fall Semester (2023-2024) in the Statistics Department of METU offered by Fulya Gökalp Yavuz. All projects featured here have been created by the students of the lecture and edited by the lecturer.\n\n\n\n\n\n\nNote\n\n\n\nIt is essential to acknowledge that minor errors may be present, and the methods employed may not necessarily reflect the optimal approach related to the data sets.\n\n\nAll groups aimed to construct a narrative around a data set with relevance to environmental impact, human well-being, and other related issues.\nPrior to these projects, our primary focus centered on R4DS(2e) and Building reproducible analytical pipelines with R books for practical exercises and hands-on projects. Each group established GitHub accounts and collaborated on shared projects by forking each other’s repositories. This approach was designed to provide practical experience in reproducible and open-source research, incorporating version control practices."
