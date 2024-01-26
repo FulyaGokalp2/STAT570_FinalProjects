@@ -1,5 +1,5 @@
 ---
-title: "Final Projects"
+title: "Data Handling and Visualization"
 format: html
 editor: visual
 execute: 

@@ -6,8 +6,9 @@ website:
   page-footer: "Copyright 2024" 
   repo-url: https://github.com/FulyaGokalp2/STAT570_FinalProjects
   repo-actions: [edit, issue]
-  title: "Data Handling and Visualization"
+  title: ""
   page-navigation: true
+  
   navbar:
     tools:
       - icon: github
@@ -15,22 +16,22 @@ website:
     background: info
     left:
       - href: index.qmd
+      - href: 570_project_archery_game_analysis/arc_warden.qmd
+        text: Archery Game
+      - href: LeventSari_HuseyinTan/STAT570_Levent_Huseyin.qmd
+        text: Traffic Accidents
+      - href: PoliceStopData-BuseBakis/project_busebakis.qmd
+        text: PD Stop
+      - href: MehmetAli_STAT570/EnergyWomen570Final.qmd
+        text: Women’s Leadership
+      - href: Miray_Ecenaz/STAT570 Final Project.qmd
+        text: DS Job
+      - href: Water_Budget/TWS_PRCP_v02.qmd
+        text: TWS
+      - href: Maksoy_Sakil/WRF.qmd
+        text: WRF model
       - href: about.qmd
         text: About
-      - href: 570_project_archery_game_analysis/arc_warden.qmd
-        text: An Archery Game Analysis
-      - href: LeventSari_HuseyinTan/STAT570_Levent_Huseyin.qmd
-        text: Road Traffic Accidents of Turkey
-      - href: PoliceStopData-BuseBakis/project_busebakis.qmd
-        text: Police Department Stop Data
-      - href: MehmetAli_STAT570/EnergyWomen570Final.qmd
-        text: Women’s Leadership and Carbon Disclosure
-      - href: Miray_Ecenaz/STAT570 Final Project.qmd
-        text: Data Scientist Job Posting
-      - href: Water_Budget/TWS_PRCP_v02.qmd
-        text: Terrestrial Water Storage and Precipitation Observations
-      - href: Maksoy_Sakil/WRF.qmd
-        text: Weather Research and Forecasting (WRF) model
 format:
   html:
     theme: cosmo

@@ -1,7 +1,5 @@
 ---
 title: "About"
-about:
-  template: trestles
 ---
 
 **How to ask questions about the projects?**
